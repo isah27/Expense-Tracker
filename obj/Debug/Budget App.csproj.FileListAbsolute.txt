@@ -1,0 +1,24 @@
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\budget.db
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\budget.sqbpro
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\Budget App.exe.config
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\Budget App.exe.manifest
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\Budget App.application
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\Budget App.exe
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\Budget App.pdb
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\System.Data.SQLite.dll
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NAZY\source\repos\Budget App\bin\Debug\System.Data.SQLite.xml
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget_App.Form1.resources
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget_App.Login.resources
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget_App.PasswordRecovery.resources
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget_App.Properties.Resources.resources
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget_App.SignUp.resources
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.csproj.GenerateResource.cache
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.csproj.CoreCompileInputs.cache
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.exe.manifest
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.application
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.csproj.CopyComplete
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.exe
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.pdb
+C:\Users\NAZY\source\repos\Budget App\obj\Debug\Budget App.csproj.AssemblyReference.cache
